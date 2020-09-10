@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bigLoader", "bigLoader.csproj", "{9A5B2B94-FFD6-4D1C-A416-971A7D005634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5B2B94-FFD6-4D1C-A416-971A7D005634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5B2B94-FFD6-4D1C-A416-971A7D005634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5B2B94-FFD6-4D1C-A416-971A7D005634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5B2B94-FFD6-4D1C-A416-971A7D005634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FB51A4-E657-43E3-91CA-77B6FE3AF341}
+	EndGlobalSection
+EndGlobal
